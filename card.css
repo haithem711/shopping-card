@@ -1,0 +1,19 @@
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+    
+}
+.child{height: 50px;}
+.stron{color: beige;}
+.fa-cart-plus{color: white;margin-left: 50px;}
+
+.fa-heart{color: black;}
+.footer{height: 10px;}
+.lii{margin-left: 900px;}
+
+.btnn{border-radius: 50% ;background-color: green;width: 30px;}
+
+.x{cursor: pointer;}
+.heart-red{color: red;}
+.fa-heart{cursor: pointer;}
+
